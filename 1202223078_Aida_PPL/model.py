@@ -6,7 +6,7 @@ current_login = {
     "login_time": None, 
 }
 
-# users data in dictionary
+# users data in 
 # key is the username, value is the data of the user
 # { the_username: {username: '', password: '', nama: '', role: 'admin'} }
 users = {
